@@ -67,8 +67,8 @@ You can send commands using a Bluetooth terminal app from your smartphone or a s
 * Run on a flat surface to avoid tipping over.
 -----
 ## 📸 Demo & Results
-[!demo1](Gallery/Robo-1.jpg)
-[!demo2](Gallery/Robo-2.jpg)
+[! demo1](Gallery/Robo-1.jpg)
+[! demo2](Gallery/Robo-2.jpg)
 
 ----
 ## 🤝 Contributing
